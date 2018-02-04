@@ -10,7 +10,7 @@ Example of usage:
 3. Run cmd in search window to get to command line shell
 4. Type 'cd c:\RCM'
 5. Open your iPhone or Android app and go to settings tab.
-6. Take note of your username
+6. Write down somewhere your USERNAME as it will be used in next step
 7. Type 'RCM.exe -uid USERNAME -desc RIGNAME'
 8. If everything is OK you should see output that that confirms successful updates.
 
